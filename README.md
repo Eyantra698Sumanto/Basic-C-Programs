@@ -24,18 +24,18 @@ ii.	Binary Search.
 	b.	Print all three matrices.
  
 	
-
-Strings\n
+#
+Strings
 11.	WAP to count no of vowels, consonants, digits, spaces and special characters in entered string
 12.	WAP to check whether entered string is palindrome or not
 13.	WAP using user defined functions xstrlen, xstrcmp, xstrcpy, xstrcat, xstrev. Use switch case.
-
-Structure\n
+#
+Structure
 14.	Create a structure Patient having patientID , Name and diseases as data members. Read details of 5 patients and print details of the patients with a disease ‘diabetes’.
 
 15.	Create a structure Employee with data members’ employee ID, name and salary. Write a program to sort 10 employees according to their salary (in descending order).
 16.	WAP to print names of students in ascending order of their average marks using structure student. Student structure contains following elements:
-Roll No, Name, marks of 3 subjects (array of int size 3), avg_marks
+	Roll No, Name, marks of 3 subjects (array of int size 3), avg_marks
 17.	To create a structure having following elements:
   	i.	Employee code
  	ii.	Employee name
@@ -58,7 +58,7 @@ WAP to read records of N players and to prepare following lists:
 20.	WAP to add two rational numbers using structure
 21.	WAP to add two complex numbers using structure
 22.	WAP to find distance of two points using structure
-Functions
+	Functions
 23.	Write recursive function
   	i.	To compute factorial of a number
   	ii.	To compute xn
@@ -75,7 +75,7 @@ Functions
  	 iii.	Maximum of 3 nos using ternary operator
  	 iv.	Swap two nos.
  	 v.	To find area and perimeter of a circle given radius
-	  vi.	To find area and perimeter of a rectangle given length and breadth
+	 vi.	To find area and perimeter of a rectangle given length and breadth
  	 vii.	To find nPr and nCr using fact function
 25.	WAP to find standard deviation of n numbers inputted by user using function
 find_mean() , find_variance().
