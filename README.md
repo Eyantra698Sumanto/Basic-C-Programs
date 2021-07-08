@@ -25,12 +25,13 @@ ii.	Binary Search.
  
 	
 #
-Strings
+Strings\
+
 11.	WAP to count no of vowels, consonants, digits, spaces and special characters in entered string
 12.	WAP to check whether entered string is palindrome or not
 13.	WAP using user defined functions xstrlen, xstrcmp, xstrcpy, xstrcat, xstrev. Use switch case.
 #
-Structure
+Structure\
 14.	Create a structure Patient having patientID , Name and diseases as data members. Read details of 5 patients and print details of the patients with a disease ‘diabetes’.
 
 15.	Create a structure Employee with data members’ employee ID, name and salary. Write a program to sort 10 employees according to their salary (in descending order).
@@ -68,7 +69,7 @@ WAP to read records of N players and to prepare following lists:
   	vi.	To add first n natural nos
   	vii.	To add array elements of array size n
   	viii.	To print binary equivalent of a number
-  ix.	To print first n terms of Fibonacci series
+  	ix.	To print first n terms of Fibonacci series
 24.	WAP using functions and switch-case to
  	 i.	Decide whether entered no is odd and even.
  	 ii.	Entered year is leap or not
@@ -78,5 +79,5 @@ WAP to read records of N players and to prepare following lists:
 	 vi.	To find area and perimeter of a rectangle given length and breadth
  	 vii.	To find nPr and nCr using fact function
 25.	WAP to find standard deviation of n numbers inputted by user using function
-find_mean() , find_variance().
+	find_mean() , find_variance().
 
