@@ -25,7 +25,7 @@ ii.	Binary Search.
  
 	
 #
-Strings\
+Strings
 
 11.	WAP to count no of vowels, consonants, digits, spaces and special characters in entered string
 12.	WAP to check whether entered string is palindrome or not
